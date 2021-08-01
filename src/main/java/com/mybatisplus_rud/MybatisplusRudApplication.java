@@ -10,6 +10,7 @@ public class MybatisplusRudApplication {
         SpringApplication.run(MybatisplusRudApplication.class, args);
         System.out.println("项目启动成功==========");
         System.out.println("我是项目启动类");
+        System.out.println("我是杨安华");
     }
 
 }
