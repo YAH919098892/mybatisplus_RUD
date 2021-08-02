@@ -17,10 +17,10 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/customer")
 public class CustomerController {
     public void an(){
-        System.out.println("2222222");
+        System.out.println("55555555555");
     }
     public void an(String name){
-        System.out.println("2222222");
+        System.out.println("555555");
     }
 }
 
