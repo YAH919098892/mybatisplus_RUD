@@ -16,8 +16,14 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/customer")
 public class CustomerController {
-    public void ab(){
-        System.out.println("1111111111111111111");
+    public void an(){
+        System.out.println("4444");
+    }
+    public void an(String name){
+        System.out.println("444");
+    }
+    public void an2(String name){
+        System.out.println("4444");
     }
 }
 
