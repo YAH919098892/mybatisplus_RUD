@@ -16,6 +16,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/customer")
 public class CustomerController {
-
+    public void ab(){
+        System.out.println("hhhhhh");
+    }
 }
 
