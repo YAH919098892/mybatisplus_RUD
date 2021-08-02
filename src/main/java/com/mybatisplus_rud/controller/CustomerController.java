@@ -16,8 +16,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/customer")
 public class CustomerController {
-public void an(){
-    System.out.println("1111111");
-}
+
 }
 
