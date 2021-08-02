@@ -22,5 +22,8 @@ public class CustomerController {
     public void an(String name){
         System.out.println("2222222");
     }
+    public void an2(String name){
+        System.out.println("2222222");
+    }
 }
 
