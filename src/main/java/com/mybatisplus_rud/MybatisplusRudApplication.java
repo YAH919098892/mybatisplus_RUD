@@ -10,6 +10,7 @@ public class MybatisplusRudApplication {
         System.out.println("1111111");
         System.out.println("2222222");
         SpringApplication.run(MybatisplusRudApplication.class, args);
+        System.out.println("我是傻逼");
     }
 
 }
