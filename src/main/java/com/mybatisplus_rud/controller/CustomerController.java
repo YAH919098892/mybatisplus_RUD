@@ -19,6 +19,8 @@ public class CustomerController {
 public void ann(){
     System.out.println("我是杨安华");
 }
-
+    public void ann2(){
+        System.out.println("111111111111");
+    }
 }
 
