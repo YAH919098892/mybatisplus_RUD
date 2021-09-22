@@ -25,6 +25,10 @@ public class Customer implements Serializable {
     @TableId(value = "id", type = IdType.AUTO)
     private Integer id;
 
+    public Date getCreateTime() {
+        return createTime;
+    }
+
     private String username;
 
     private String jobs;
