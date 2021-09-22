@@ -27,5 +27,8 @@ public class CustomerController {
     public void an2(String name){
         System.out.println("2222222");
     }
+    public void a(){
+        System.out.println("aaaaaaaaaa");
+    }
 }
 
