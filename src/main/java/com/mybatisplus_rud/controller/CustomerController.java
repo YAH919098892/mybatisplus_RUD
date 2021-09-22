@@ -16,16 +16,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/customer")
 public class CustomerController {
-    public void an(){
-        System.out.println("55555555555");
-        System.out.println("7777777");
-    }
-    public void an(String name){
-        System.out.println("555555");
-        System.out.println("7777777777");
-    }
-    public void an2(String name){
-        System.out.println("2222222");
-    }
+public void ann(){
+    System.out.println("我是杨安华");
+}
+
 }
 
