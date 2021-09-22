@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class CustomerController {
 
     public void an(){
-        System.out.println("woshi杨阿华");
+        System.out.println("bbbbbbbbbbbbb");
     }
     public void a(){
         System.out.println("aaaaaaaaaa");
